@@ -4,4 +4,4 @@ OHOO
 jel;lo 
 git 
 changes banayo
-change banaun paryo
+change banaun 

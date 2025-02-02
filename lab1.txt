@@ -1,9 +1,7 @@
 this is change in lab1
-<<<<<<< HEAD
 again change
 OHOO
 jel;lo 
-=======
 git 
 changes banayo
->>>>>>> ending
+change banaun paryo
